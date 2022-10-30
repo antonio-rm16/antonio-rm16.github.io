@@ -4,5 +4,4 @@ let boton = document.querySelector('button');
 boton.addEventListener('click',clicAct);
 //ACTUAR
 function clicAct(){
-  alert("Práctica realizada");
-}  
+  alert("Práctica realizada");}
