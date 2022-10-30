@@ -14,41 +14,41 @@ section{
 }
 .bckgrnd{
     background-color: hsl(194, 23%, 62%);
-    width: 400px;
-    height: 270px;
+    width: 350px;
+    height: 250px;
     display: flex;
-    margin: 45px 40px 45px 40px;
-    padding: 15px 30px 15px 15px;
-    border-radius: 7%;
+    margin: 35px 30px 35px 30px;
+    padding: 20px 25px 10px 20px;
+    border-radius: 5%;
 }
 
 .titulo{
     font-family: arial;
-    font-size: 20pt;
+    font-size: 19pt;
     margin-bottom: 20px;
-    font-weight: 550;
+    font-weight: 650;
 }
 
 .description{
     font-family: arial;
-    font-size: 11pt;
-    margin-bottom: 45px;
+    font-size: 10pt;
+    margin-bottom: 35px;
     color: rgb(29, 26, 26);
     font-weight: 300;
 }
 
 img{
-    width: 150px;
-    height: 200;
-    padding-left: 35px;
-    padding-top: 50px;
+    width: 120px;
+    height: 180;
+    padding-left: 15px;
+    padding-top: 30px;
 }
 
 button{
     background-color: #0a0a3f;
     font-family: arial;
     font-size: 12pt;
-    font-weight: 600;
+    font-weight: 500;
     color: lightgray;
     width: 200px;
     height: 50px;
@@ -58,11 +58,11 @@ button{
 }
 
 .izq{
-    width: 230px;
+    width: 200px;
 }
  .bckgrnd:hover{
-    width: 410px;
-    height: 278px;
+    width: 357px;
+    height: 255px;
    background-color:  hsl(180, 23%, 62%);
  }
 
