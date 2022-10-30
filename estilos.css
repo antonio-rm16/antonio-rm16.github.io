@@ -14,25 +14,25 @@ section{
 }
 .bckgrnd{
     background-color: hsl(194, 23%, 62%);
-    width: 500px;
-    height: 300px;
+    width: 400px;
+    height: 270px;
     display: flex;
-    margin: 50px 50px 50px 50px;
-    padding: 15px 35px 15px 15px;
+    margin: 45px 40px 45px 40px;
+    padding: 15px 30px 15px 15px;
     border-radius: 7%;
 }
 
 .titulo{
     font-family: arial;
-    font-size: 26pt;
+    font-size: 20pt;
     margin-bottom: 20px;
     font-weight: 550;
 }
 
 .description{
     font-family: arial;
-    font-size: 14pt;
-    margin-bottom: 35px;
+    font-size: 11pt;
+    margin-bottom: 45px;
     color: rgb(29, 26, 26);
     font-weight: 300;
 }
@@ -54,14 +54,15 @@ button{
     height: 50px;
     border: none;
     border-radius: 8%;
+    margin-bottom: 10px;
 }
 
 .izq{
-    width: 280px;
+    width: 230px;
 }
  .bckgrnd:hover{
-    width: 513px;
-    height: 308px;
+    width: 410px;
+    height: 278px;
    background-color:  hsl(180, 23%, 62%);
  }
 
